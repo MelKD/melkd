@@ -3,7 +3,8 @@
 ## Hi there 👋
 I'm Melissa. I'm a Software Engineer from Adelaide, Australia.  
 
-Connect with me at:
+Connect with me at:  
+
 [![Twitter][1.1]][1]   [![LinkedIn][2.1]][3]  
 
 ## My GitHub Stats
