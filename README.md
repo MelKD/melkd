@@ -1,7 +1,9 @@
 [![Header](https://github.com/MelKD/melkd/blob/master/readme-banner.png "Header")](https://melissakyd.com)
 
-### Hi there 👋
-I'm Melissa. I'm a Software Engineer from Adelaide, Australia. Follow me on [![Twitter][1.2]][1],  or [![LinkedIn][3.2]][3].
+## Hi there 👋
+I'm Melissa. I'm a Software Engineer from Adelaide, Australia. 
+Connect with me at:
+[![Twitter][1.2]][1]   [![LinkedIn][3.2]][3].
 
 
 ## My GitHub Stats
@@ -19,11 +21,6 @@ I'm Melissa. I'm a Software Engineer from Adelaide, Australia. Follow me on [![T
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 
 <!-- links to your social media accounts -->
