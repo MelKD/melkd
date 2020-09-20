@@ -1,4 +1,4 @@
-[![Header](https://github.com/MelKD/melkd/blob/master/readme-banner.jpg "Header")](https://melissakyd.com)
+[![Header](https://github.com/MelKD/melkd/blob/master/readme-banner.png "Header")](https://melissakyd.com)
 
 ### Hi there 👋
 
