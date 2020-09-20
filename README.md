@@ -3,7 +3,7 @@
 ## Hi there 👋
 I'm Melissa. I'm a Software Engineer from Adelaide, Australia. 
 Connect with me at:
-[![Twitter][1.2]][1]   [![LinkedIn][3.2]][3].
+[![Twitter][1.1]][1]   [![LinkedIn][2.1]][3].
 
 
 ## My GitHub Stats
@@ -19,11 +19,11 @@ Connect with me at:
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: https://github.com/MelKD/melkd/blob/master/twitter.png 
+[2.1]: https://github.com/MelKD/melkd/blob/master/linkedin.png 
 
 
-<!-- links to your social media accounts -->
+<!-- links to social media accounts -->
 
 [1]: https://twitter.com/melissa_k__d
 [2]: https://github.com/MelKD
