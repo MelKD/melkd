@@ -1,4 +1,4 @@
-[![Header](https://github.com/MelKD/melkd/blob/master/readme-banner.png "Header")](https://melissakyd.com)
+[![Header](https://github.com/MelKD/melkd/blob/master/readme-banner.png "Header")](https://melkd.github.io/)
 
 ## Hi there 👋
 I'm Melissa. I'm a Software Engineer from Adelaide, Australia.  
