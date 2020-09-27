@@ -1,7 +1,4 @@
 [![Header](https://github.com/MelKD/melkd/blob/master/readme-banner.png "Header")](https://melissakyd.com)
----
-permalink: /index.html
----
 
 ## Hi there 👋
 I'm Melissa. I'm a Software Engineer from Adelaide, Australia.  
